@@ -5,7 +5,6 @@ from termcolor import *
 
 myfile = open("FullVendingGame\save.txt", "r+")
 filecontents = myfile.read()
-print(myfile.readlines(0))
 
 # Vending machine
 
