@@ -255,7 +255,7 @@ def Maingame():
     printgr("Do I know you?")
     printbl("Nope... Nobody does. There is nobody left...")
     printgr("What do you mean?")
-    printbl("They've all been taken up... By the black claw...")
+    printbl("They've all been taken up... By the Black Claw...")
     printgr("What's that? Black claw...? Well alright then, I don't really believe you yet...")
     printbl("Well you'd better start...")
     printbl("I'll be your only guide...")
