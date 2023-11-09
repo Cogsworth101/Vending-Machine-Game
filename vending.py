@@ -206,9 +206,11 @@ def Maingame():
                 myfile.seek(0)
                 done1 = 1
             elif continuequer == "continue" or continuequer == "Continue":
-                print(myfile.readlines(-1))
+                print("Continued...")
+                done1 = 1
             else:
                 print("What?")
+                Maingame()
 
     print("""
 
